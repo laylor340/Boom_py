@@ -1,4 +1,4 @@
-Laylor’s Puzzle Saga
+My Puzzle Saga
 Hello, fellow puzzle solver! I'm happy to have you here.
 
 First, if you are suspicious about any of these files (understandably!), feel totally free to run them through a virus checker—you won’t find anything, though. Second, if you haven’t yet, I highly recommend playing Franks’s puzzles as well.
